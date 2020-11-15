@@ -21,6 +21,7 @@
 3. If you did default installation of git, then the "Git Path" field will be filled
     - In the URL tab, paste the link of the project I asked you to copy
     - Keep the same settings as I have
+    - **Make sure to tick the checkbox that says "Add a gitattributes file"**
     ![](./4.png)
 
 4. Click on initialize project
